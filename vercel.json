@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/cold-email-writer", "destination": "/mvp-01/cold-email-writer.html" }
+  ]
+}
